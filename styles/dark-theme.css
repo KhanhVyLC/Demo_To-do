@@ -1,0 +1,8 @@
+:root {
+    --background: #222;
+    --color: white;
+    --task-background: #333;
+    --task-hover-background: #444;
+    --task-completed-color: #ddd;
+    --delete-color: rgb(235, 73, 73);
+}
